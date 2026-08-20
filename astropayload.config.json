@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "tenantSlug": "ridderkerkkrant",
+  "modules": [
+    "blog"
+  ],
+  "blogContentPath": "src/content/blog",
+  "blogFileExtension": "md"
+}
