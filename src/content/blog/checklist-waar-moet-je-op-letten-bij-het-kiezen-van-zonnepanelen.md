@@ -1,8 +1,10 @@
 ---
 title: "Checklist: waar moet je op letten bij het kiezen van zonnepanelen?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "checklist-waar-moet-je-op-letten-bij-het-kiezen-van-zonnepanelen"
+metaDescription: "Auto Een verstandige stap richting lagere energiekosten en duurzamer energieverbruik is het nemen van zonnepanelen. Het aanbod van deze duurzame bron is"
 ---
-
 Auto
 
 Een verstandige stap richting lagere energiekosten en duurzamer energieverbruik is het nemen van zonnepanelen. Het aanbod van deze duurzame bron is groot, maar wel verschillen

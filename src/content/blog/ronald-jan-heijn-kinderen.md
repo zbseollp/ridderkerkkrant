@@ -1,8 +1,10 @@
 ---
 title: "Ronald Jan Heijn kinderen: wat is bekend over zijn gezin?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "ronald-jan-heijn-kinderen"
+metaDescription: "Auto Ronald Jan Heijn is een bekende Nederlandse ondernemer en publiek figuur. Door zijn bekendheid zijn veel mensen nieuwsgierig naar zijn privéleven, en"
 ---
-
 Auto
 
 Ronald Jan Heijn is een bekende Nederlandse ondernemer en publiek figuur. Door zijn bekendheid zijn veel mensen nieuwsgierig naar zijn privéleven, en vooral naar zijn kinderen. In dit artikel lees je

@@ -4,7 +4,6 @@ metaTitle: "Gebedstijden Ridderkerk | Bekijk alle gebedstijden"
 slug: "gebedstijden-ridderkerk"
 metaDescription: "Gebedstijden in Ridderkerk. Op zoek naar de gebedstijden in Ridderkerk? Op onze website bekijk je alle gebedstijden in Ridderkerk."
 ---
-
 ## Gebedstijden Ridderkerk
 
 Op deze pagina kun je de vijf dagelijkse islamitische gebedstijden bekijken voor de moskee in Ridderkerk. Het eerste gebed is voor zonsopgang en het laatste gebed is bij zonsondergang.

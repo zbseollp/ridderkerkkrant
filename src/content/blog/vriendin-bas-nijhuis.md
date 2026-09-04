@@ -1,8 +1,10 @@
 ---
 title: "Vriendin Bas Nijhuis: wie is zijn partner?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "vriendin-bas-nijhuis"
+metaDescription: "Auto Veel mensen vragen zich af wie de vriendin van Bas Nijhuis is, vooral omdat hij bekendstaat als een van de meest ervaren scheidsrechters in het"
 ---
-
 Auto
 
 Veel mensen vragen zich af wie de vriendin van Bas Nijhuis is, vooral omdat hij bekendstaat als een van de meest ervaren scheidsrechters in het Nederlandse voetbal. Bas Nijhuis heeft jarenlang wedstri

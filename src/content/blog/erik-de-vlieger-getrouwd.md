@@ -1,8 +1,10 @@
 ---
 title: "Erik de Vlieger getrouwd: wat is bekend over zijn huwelijk"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "erik-de-vlieger-getrouwd"
+metaDescription: "Auto De vraag of Erik de Vlieger getrouwd is, komt vaak voorbij bij mensen die nieuwsgierig zijn naar het privéleven van de Nederlandse zakenman en"
 ---
-
 Auto
 
 De vraag of Erik de Vlieger getrouwd is, komt vaak voorbij bij mensen die nieuwsgierig zijn naar het privéleven van de Nederlandse zakenman en vastgoedmagnaat. Erik de Vlieger staat bekend om zijn zak

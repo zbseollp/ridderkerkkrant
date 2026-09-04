@@ -4,7 +4,6 @@ metaTitle: "Snackbar Ridderkerk | Bekijk alle snackbars in Ridderkerk"
 slug: "snackbar-ridderkerk"
 metaDescription: "Snackbar in Ridderkerk en omgeving. Op zoek naar een snackbar in Ridderkerk? Bekijk alle snackbars hier"
 ---
-
 ## Snackbar Ridderkerk
 
 Doe maar twee porties friet met ketchup, een kroket en een vegetarische frikandel. Heb jij ook zin om je eten af te halen bij de snackbar of cafetaria en lekker thuis op de bank te genieten van je snacks en een film te kijken?

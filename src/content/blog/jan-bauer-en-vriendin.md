@@ -1,8 +1,10 @@
 ---
 title: "Jan Bauer en vriendin: wat is bekend over zijn relatie?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "jan-bauer-en-vriendin"
+metaDescription: "Auto De zoekterm Jan Bauer en vriendin wordt vaak gebruikt door mensen die nieuwsgierig zijn naar het persoonlijke leven van Jan Bauer. Jan Bauer is"
 ---
-
 Auto
 
 De zoekterm Jan Bauer en vriendin wordt vaak gebruikt door mensen die nieuwsgierig zijn naar het persoonlijke leven van Jan Bauer. Jan Bauer is vooral bekend als zoon van zanger Frans Bauer, maar heef

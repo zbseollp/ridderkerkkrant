@@ -1,8 +1,10 @@
 ---
 title: "Bas Louissen vriendin Majka: wie is zijn partner"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "bas-louissen-vriendin-majka"
+metaDescription: "Auto De vraag naar Bas Louissen vriendin Majka komt vaak naar voren bij mensen die nieuwsgierig zijn naar het privéleven van de Nederlandse journalist en"
 ---
-
 Auto
 
 De vraag naar Bas Louissen vriendin Majka komt vaak naar voren bij mensen die nieuwsgierig zijn naar het privéleven van de Nederlandse journalist en presentator. Bas Louissen is bekend door zijn werk

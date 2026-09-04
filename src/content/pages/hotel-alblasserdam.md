@@ -4,7 +4,6 @@ metaTitle: "Hotel Ridderkerk | Bekijk alle hotels in Ridderkerk"
 slug: "hotel-ridderkerk"
 metaDescription: "Hotels in Ridderkerk en omgeving. Op zoek naar een hotel in Ridderkerk? Bekijk alle hotels op onze overnachtingspagina."
 ---
-
 ## Hotel Ridderkerk
 
 Ben je op zoek naar een hotel om te overnachten in Ridderkerk? In Ridderkerk en de omgeving zijn veel hotels gevestigd. Ben je op dit moment in Ridderkerk en zoek je last minute een overnachting, dan kun je een hotel uit het overzicht bellen voor de beschikbaarheid. Bekijk het volledige hoteloverzicht en kies het hotel dat het beste bij jouw verblijf in Ridderkerk past.

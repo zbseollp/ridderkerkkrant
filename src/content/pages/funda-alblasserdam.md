@@ -4,7 +4,6 @@ metaTitle: "Funda Ridderkerk | woningen te koop in Ridderkerk"
 slug: "funda-ridderkerk"
 metaDescription: "Koop woningen online op Funda Ridderkerk. Nieuwbouwhuizen te koop in Ridderkerk, huurhuizen en appartementen in Ridderkerk."
 ---
-
 ## Funda Ridderkerk
 
 Welkom op de Funda Ridderkerk pagina. Ben je op zoek naar een nieuwe woning of appartement in Ridderkerk, bekijk dan het Funda overzicht. Er zit vast en zeker een mooi huis voor je bij in Ridderkerk.

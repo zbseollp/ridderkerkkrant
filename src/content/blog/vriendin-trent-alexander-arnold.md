@@ -1,8 +1,10 @@
 ---
 title: "Vriendin Trent Alexander-Arnold: wie is zijn partner?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "vriendin-trent-alexander-arnold"
+metaDescription: "Auto Veel voetbalfans vragen zich af wie de vriendin Trent Alexander-Arnold is, vooral omdat hij al jaren in de schijnwerpers staat door zijn prestaties"
 ---
-
 Auto
 
 Veel voetbalfans vragen zich af wie de vriendin Trent Alexander-Arnold is, vooral omdat hij al jaren in de schijnwerpers staat door zijn prestaties bij Liverpool en het Engelse nationale team. Naast z

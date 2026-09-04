@@ -4,7 +4,6 @@ metaTitle: "Bed and Breakfast Ridderkerk | Bekijk alle B&B's in Ridderkerk"
 slug: "bed-and-breakfast-ridderkerk"
 metaDescription: "Bed and Breakfast in Ridderkerk en omgeving. Op zoek naar een B&B in Ridderkerk? Bekijk alle Bed and Breakfasts op onze website"
 ---
-
 ## Bed & Breakfast Ridderkerk
 
 Ben je van plan om binnenkort naar het mooie Ridderkerk te komen en zoek je nog een speciale overnachting, maar wil je iets anders dan een hotel of camping? Overweeg dan de verschillende B&B's in Ridderkerk voor een onvergetelijke ervaring.

@@ -4,7 +4,6 @@ metaTitle: "Wandelen Ridderkerk | Bekijk alle wandelroutes in Ridderkerk"
 slug: "wandelen-ridderkerk"
 metaDescription: "Wandelen in Ridderkerk en omgeving. Op zoek naar een wandelroute in Ridderkerk? Bekijk alle wandelingen op onze wandel pagina."
 ---
-
 ## Wandelen Ridderkerk
 
 Ben je in Ridderkerk en heb je zin om te gaan wandelen? Wellicht door het centrum van Ridderkerk om de pracht en praal te bekijken. Ga je liever de natuur in? Kies dan voor een wandeling buiten Ridderkerk. De locatie biedt zowel korte wandelingen als uitgebreide dagtochten door de gemeente en omliggende regio's, geschikt voor elk ervaringsniveau.

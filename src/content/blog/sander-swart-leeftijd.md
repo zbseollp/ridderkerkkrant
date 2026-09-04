@@ -1,8 +1,10 @@
 ---
 title: "Sander Swart leeftijd: hoe oud is de filmproducent?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "sander-swart-leeftijd"
+metaDescription: "Auto De leeftijd van Sander Swart is iets waar mensen regelmatig naar zoeken wanneer ze meer willen weten over de Nederlandse filmwereld. Hij is een"
 ---
-
 Auto
 
 De leeftijd van Sander Swart is iets waar mensen regelmatig naar zoeken wanneer ze meer willen weten over de Nederlandse filmwereld. Hij is een bekende filmproducent die achter de schermen een belangr

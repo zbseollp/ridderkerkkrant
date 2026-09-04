@@ -1,8 +1,10 @@
 ---
 title: "Arend Jan Boekestijn getrouwd: wat is er bekend over zijn huwelijk?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "arend-jan-boekestijn-getrouwd"
+metaDescription: "Nieuws De naam Arend Jan Boekestijn is in Nederland bekend dankzij zijn werk als historicus, voormalig politicus en commentator. Veel mensen kennen hem"
 ---
-
 Nieuws
 
 De naam Arend Jan Boekestijn is in Nederland bekend dankzij zijn werk als historicus, voormalig politicus en commentator. Veel mensen kennen hem van zijn scherpe analyses over internationale politiek

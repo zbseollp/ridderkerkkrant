@@ -4,7 +4,6 @@ metaTitle: "Activiteiten Ridderkerk | Bekijk alle activiteiten in Ridderkerk"
 slug: "activiteiten-ridderkerk"
 metaDescription: "Activiteiten in Ridderkerk en omgeving. Opzoek naar een leuke activiteit in Ridderkerk? Bekijk het overzicht op onze website."
 ---
-
 ## Activiteiten Ridderkerk
 
 Woon je in Ridderkerk of ben je in de buurt? Op deze pagina kun je alle activiteiten bekijken die in Ridderkerk georganiseerd worden. Het hele jaar door worden er diverse activiteiten georganiseerd om aan deel te nemen of te bezoeken.

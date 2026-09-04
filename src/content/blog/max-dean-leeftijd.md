@@ -1,8 +1,10 @@
 ---
 title: "Max dean leeftijd: hoe oud is de voetballer?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "max-dean-leeftijd"
+metaDescription: "Auto De zoekterm max dean leeftijd wordt vaak gebruikt door voetbalfans die meer willen weten over de jonge Engelse voetballer Max Dean. Hij geldt als een"
 ---
-
 Auto
 
 De zoekterm max dean leeftijd wordt vaak gebruikt door voetbalfans die meer willen weten over de jonge Engelse voetballer Max Dean. Hij geldt als een talentvolle aanvaller die zich de afgelopen jaren

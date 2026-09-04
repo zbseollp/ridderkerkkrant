@@ -4,7 +4,6 @@ metaTitle: "Bekendmakingen Ridderkerk | ridderkerkkrant.nl"
 slug: "bekendmakingen"
 metaDescription: "Blijf op de hoogte van aangevraagde of verleende vergunningen in Ridderkerk. Alle verbouwingen die momenteel in Ridderkerk plaatsvinden op een rij."
 ---
-
 ## Bekendmakingen Ridderkerk
 
 Dankzij de bekendmakingenspagina van onze krant blijf jij overal van op de hoogte. De website wordt dagelijks bijgewerkt om informatie zo snel mogelijk te delen. Bekijk alle bekendmakingen in Ridderkerk op deze pagina.

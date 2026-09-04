@@ -1,8 +1,10 @@
 ---
 title: "Afkomst Steve Jobs: wat is bekend over zijn achtergrond?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "afkomst-steve-jobs"
+metaDescription: "Auto De vraag afkomst Steve Jobs wordt vaak gesteld door mensen die meer willen weten over de achtergrond van de beroemde ondernemer. Steve Jobs is vooral"
 ---
-
 Auto
 
 De vraag afkomst Steve Jobs wordt vaak gesteld door mensen die meer willen weten over de achtergrond van de beroemde ondernemer. Steve Jobs is vooral bekend als medeoprichter van Apple en pionier in t

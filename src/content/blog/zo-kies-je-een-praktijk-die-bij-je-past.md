@@ -1,8 +1,10 @@
 ---
 title: "Zo kies je een praktijk die bij je past"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "zo-kies-je-een-praktijk-die-bij-je-past"
+metaDescription: "Nieuws Kies een praktijk die meteen helder maakt waar je terechtkunt: voor vaste controles die je vooruit plant, of voor snelle hulp bij pijn. Dat scheelt"
 ---
-
 Nieuws
 
 Kies een praktijk die meteen helder maakt waar je terechtkunt: voor vaste controles die je vooruit plant, of voor snelle hulp bij pijn. Dat scheelt gedoe op het moment dat je juist snel duidelijkheid

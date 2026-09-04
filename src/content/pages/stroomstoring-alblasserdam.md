@@ -4,7 +4,6 @@ metaTitle: "Stroomstoring Ridderkerk | Bekijk mogelijke stroomstoring hier"
 slug: "stroomstoring-ridderkerk"
 metaDescription: "Stroomstoring in Ridderkerk en omgeving. Benieuwd of er een stroomstoring is in Ridderkerk? Bekijk alle stroomstoringen op onze pagina."
 ---
-
 Heb je geen elektriciteit, dan kan het zijn dat er een stroomstoring is, bij jou in de buurt of in heel Ridderkerk. Op deze pagina kan je nakijken of er een melding bekend is. Zo ja, dan wordt dit vaak binnen een paar uur opgelost door het netbeheer. Is er geen stroomstoring bekend of gemeld, neem dan de volgende stappen:
 
 - Controleer eerst je eigen meterkast: kijk of er geen groepen zijn uitgevallen

@@ -4,7 +4,6 @@ metaTitle: "Overlijdensberichten Ridderkerk | Bekijk ze hier bij nieuwekerkaande
 slug: "overlijdensberichten-ridderkerk"
 metaDescription: "Overlijdensberichten in Ridderkerk en omgeving. Opzoek naar een overlijdensbericht in Ridderkerk? Bekijk ze hier allemaal."
 ---
-
 ## Overlijden Ridderkerk
 
 Bij ons lees je de meest recente overlijdensberichten uit Ridderkerk. Zoek op achternaam om familieberichten te vinden en je medeleven te betuigen aan nabestaanden.

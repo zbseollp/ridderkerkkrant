@@ -1,8 +1,10 @@
 ---
 title: "Lisa Trese-Müller leeftijd: hoe oud is zij?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "lisa-trese-muller-leeftijd"
+metaDescription: "Auto De vraag naar Lisa Trese-Müller leeftijd wordt vaak gesteld door mensen die meer willen weten over haar achtergrond en privéleven. Lisa Trese-Müller"
 ---
-
 Auto
 
 De vraag naar Lisa Trese-Müller leeftijd wordt vaak gesteld door mensen die meer willen weten over haar achtergrond en privéleven. Lisa Trese-Müller is vooral bekend als de vrouw van de Duitse voetbal

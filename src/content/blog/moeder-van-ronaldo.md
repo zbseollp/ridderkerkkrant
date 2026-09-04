@@ -1,6 +1,9 @@
 ---
 title: "Moeder van Ronaldo: wie is de moeder van Cristiano Ronaldo"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "moeder-van-ronaldo"
+metaDescription: "Auto De vraag naar moeder van Ronaldo komt vaak voorbij bij voetbalfans die nieuwsgierig zijn naar de familie achter de wereldberoemde Portugese"
 ---
 
 Auto

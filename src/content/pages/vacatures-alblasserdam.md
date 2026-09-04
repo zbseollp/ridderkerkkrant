@@ -4,7 +4,6 @@ metaTitle: "Vacatures Ridderkerk | Bekijk alle banen"
 slug: "vacatures-ridderkerk"
 metaDescription: "Vacatures in Ridderkerk en omgeving. Op zoek naar een baan in Ridderkerk? Bekijk alle banen op onze vacaturepagina."
 ---
-
 ## Vacatures Ridderkerk
 
 Is het tijd voor een nieuwe uitdaging of ben je net verhuisd naar Ridderkerk en zoek je naar een nieuwe baan? Ben je student en op zoek naar een vakantiebaantje of zoek je tijdelijk werk? Bekijk alle vacatures in de gemeente Ridderkerk op onze vacaturepagina. Wat je ook zoekt, fulltime of parttime, je vindt alle vacatures in de ridderkerkkrant.

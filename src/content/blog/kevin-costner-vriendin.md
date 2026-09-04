@@ -1,8 +1,10 @@
 ---
 title: "Kevin Costner vriendin: wie is zijn partner"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "kevin-costner-vriendin"
+metaDescription: "Auto De vraag naar Kevin Costner vriendin komt vaak voorbij bij fans van de Amerikaanse acteur en regisseur. Kevin Costner is bekend van iconische films"
 ---
-
 Auto
 
 De vraag naar Kevin Costner vriendin komt vaak voorbij bij fans van de Amerikaanse acteur en regisseur. Kevin Costner is bekend van iconische films zoals Dances with Wolves en The Bodyguard, maar ook

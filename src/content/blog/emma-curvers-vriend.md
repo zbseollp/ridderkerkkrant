@@ -1,8 +1,10 @@
 ---
 title: "Emma Curvers vriend: heeft ze een relatie?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "emma-curvers-vriend"
+metaDescription: "Auto De vraag naar een vriend van Emma Curvers komt regelmatig naar voren bij mensen die haar werk volgen. De Nederlandse schrijfster en columniste staat"
 ---
-
 Auto
 
 De vraag naar een vriend van Emma Curvers komt regelmatig naar voren bij mensen die haar werk volgen. De Nederlandse schrijfster en columniste staat bekend om haar scherpe observaties en persoonlijke

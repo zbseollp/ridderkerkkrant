@@ -1,8 +1,10 @@
 ---
 title: "Vriendin Peter Buwalda: wat is bekend over zijn partner?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "vriendin-peter-buwalda"
+metaDescription: "Auto Veel mensen zijn benieuwd naar de vriendin Peter Buwalda, vooral omdat hij bekendstaat als schrijver van onder andere Bonita Avenue. Buwalda is een"
 ---
-
 Auto
 
 Veel mensen zijn benieuwd naar de vriendin Peter Buwalda, vooral omdat hij bekendstaat als schrijver van onder andere Bonita Avenue. Buwalda is een van de meest opvallende Nederlandse auteurs van de a

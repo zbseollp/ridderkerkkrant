@@ -1,8 +1,10 @@
 ---
 title: "Dochter Chris Hemsworth: wie is India Rose Hemsworth?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "dochter-chris-hemsworth"
+metaDescription: "Auto De dochter van Chris Hemsworth is een onderwerp waar veel fans nieuwsgierig naar zijn. De Australische acteur is wereldwijd bekend door zijn rollen"
 ---
-
 Auto
 
 De dochter van Chris Hemsworth is een onderwerp waar veel fans nieuwsgierig naar zijn. De Australische acteur is wereldwijd bekend door zijn rollen in grote Hollywoodfilms. Naast zijn succesvolle film

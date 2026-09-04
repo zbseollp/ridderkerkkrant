@@ -1,8 +1,10 @@
 ---
 title: "Is Verstappen al vader geworden: alles over zijn eerste kind"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "is-verstappen-al-vader-geworden"
+metaDescription: "Auto De vraag of Verstappen al vader geworden is, is inmiddels beantwoord. Max Verstappen, de wereldberoemde Formule 1-coureur, en zijn partner Kelly"
 ---
-
 Auto
 
 De vraag of Verstappen al vader geworden is, is inmiddels beantwoord. Max Verstappen, de wereldberoemde Formule 1-coureur, en zijn partner Kelly Piquet hebben samen hun eerste kind gekregen. Het nieuw

@@ -1,8 +1,10 @@
 ---
 title: "Laura van Megen partner: wie deelt haar leven?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "laura-van-megen-partner"
+metaDescription: "Auto Laura van Megen is een bekende Nederlandse persoonlijkheid die actief is in televisie en media. Door haar zichtbaarheid zijn veel mensen nieuwsgierig"
 ---
-
 Auto
 
 Laura van Megen is een bekende Nederlandse persoonlijkheid die actief is in televisie en media. Door haar zichtbaarheid zijn veel mensen nieuwsgierig naar haar privéleven, en vooral naar de partner va

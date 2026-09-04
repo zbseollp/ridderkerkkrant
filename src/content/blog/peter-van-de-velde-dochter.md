@@ -1,8 +1,10 @@
 ---
 title: "Peter van de Velde dochter: heeft hij kinderen?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "peter-van-de-velde-dochter"
+metaDescription: "Auto De vraag naar de dochter van Peter van de Velde komt regelmatig voorbij bij fans van de Vlaamse acteur. Hij is al jarenlang een bekend gezicht op"
 ---
-
 Auto
 
 De vraag naar de dochter van Peter van de Velde komt regelmatig voorbij bij fans van de Vlaamse acteur. Hij is al jarenlang een bekend gezicht op televisie en in het theater. Vooral door zijn rol in p

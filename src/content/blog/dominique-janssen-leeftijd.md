@@ -1,8 +1,10 @@
 ---
 title: "Dominique Janssen leeftijd: hoe oud is de voetbalster?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "dominique-janssen-leeftijd"
+metaDescription: "Auto Dominique Janssen is een bekende Nederlandse voetbalster die zowel nationaal als internationaal indruk maakt met haar verdedigende kwaliteiten. Door"
 ---
-
 Auto
 
 Dominique Janssen is een bekende Nederlandse voetbalster die zowel nationaal als internationaal indruk maakt met haar verdedigende kwaliteiten. Door haar prestaties bij clubs en het Nederlands vrouwen

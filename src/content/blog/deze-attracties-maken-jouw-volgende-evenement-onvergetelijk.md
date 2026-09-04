@@ -1,8 +1,10 @@
 ---
 title: "Deze attracties maken jouw volgende evenement onvergetelijk"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "deze-attracties-maken-jouw-volgende-evenement-onvergetelijk"
+metaDescription: "Nieuws Een onvergetelijk evenement begint met het kiezen van de juiste attracties. Een feest geven kan soms stressvol zijn, maar met de juiste planning"
 ---
-
 Nieuws
 
 Een onvergetelijk evenement begint met het kiezen van de juiste attracties. Een feest geven kan soms stressvol zijn, maar met de juiste planning wordt het

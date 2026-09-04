@@ -1,8 +1,10 @@
 ---
 title: "Christiaan Paauwe partner: wie is de vrouw van de ex-voetballer"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "christiaan-paauwe-partner"
+metaDescription: "Auto De vraag naar Christiaan Paauwe partner komt vaak naar voren bij fans van de Nederlandse ex-voetballer. Paauwe is bekend vanwege zijn loopbaan als"
 ---
-
 Auto
 
 De vraag naar Christiaan Paauwe partner komt vaak naar voren bij fans van de Nederlandse ex-voetballer. Paauwe is bekend vanwege zijn loopbaan als verdediger bij clubs zoals Excelsior en Feyenoord, en

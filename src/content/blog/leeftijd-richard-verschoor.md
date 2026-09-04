@@ -1,8 +1,10 @@
 ---
 title: "Leeftijd Richard Verschoor: hoe oud is de Nederlandse coureur?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "leeftijd-richard-verschoor"
+metaDescription: "Auto Richard Verschoor is een Nederlandse autocoureur die naam heeft gemaakt in de Formule 2 en andere internationale raceklassen. Veel mensen zijn"
 ---
-
 Auto
 
 Richard Verschoor is een Nederlandse autocoureur die naam heeft gemaakt in de Formule 2 en andere internationale raceklassen. Veel mensen zijn benieuwd naar de leeftijd Richard Verschoor en hoe oud hi

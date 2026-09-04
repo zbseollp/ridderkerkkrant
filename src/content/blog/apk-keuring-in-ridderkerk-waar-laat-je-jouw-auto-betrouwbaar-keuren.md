@@ -1,8 +1,10 @@
 ---
 title: "APK Keuring in Ridderkerk: Waar laat je jouw auto betrouwbaar keuren"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "apk-keuring-in-ridderkerk-waar-laat-je-jouw-auto-betrouwbaar-keuren"
+metaDescription: "Auto Wanneer je auto weer toe is aan een APK keuring in Ridderkerk is het belangrijk om een betrouwbare garage te kiezen. Er zijn veel verschillende"
 ---
-
 Auto
 
 Wanneer je auto weer toe is aan een APK keuring in Ridderkerk is het belangrijk om een betrouwbare garage te kiezen. Er zijn veel verschillende

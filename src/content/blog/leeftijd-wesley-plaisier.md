@@ -1,8 +1,10 @@
 ---
 title: "Leeftijd Wesley Plaisier: hoe oud is de Nederlandse darter?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "leeftijd-wesley-plaisier"
+metaDescription: "Auto Wesley Plaisier is een Nederlandse professional in de dartswereld die steeds meer bekendheid krijgt door zijn optredens op internationale toernooien."
 ---
-
 Auto
 
 Wesley Plaisier is een Nederlandse professional in de dartswereld die steeds meer bekendheid krijgt door zijn optredens op internationale toernooien. Veel fans zijn benieuwd naar de leeftijd Wesley Pl

@@ -4,7 +4,6 @@ metaTitle: "Evenementen Ridderkerk | ridderkerkkrant.nl"
 slug: "evenementen-ridderkerk"
 metaDescription: "Bekijk de evenementenagenda van Ridderkerk. Er worden heel vaak leuke evenementen georganiseerd in Ridderkerk, voor alle leeftijden."
 ---
-
 ## Evenementenagenda van Ridderkerk
 
 Er worden heel vaak leuke evenementen georganiseerd in Ridderkerk. Evenementen in diverse genres en voor alle leeftijden. Er zal dus sowieso ook een leuke activiteit voor jou tussen zitten om aan deel te nemen of te bezoeken.

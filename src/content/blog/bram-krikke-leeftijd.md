@@ -1,8 +1,10 @@
 ---
 title: "Bram Krikke leeftijd: hoe oud is de Nederlandse presentator?"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "bram-krikke-leeftijd"
+metaDescription: "Auto Bram Krikke is een bekende Nederlandse radio- en tv-presentator die een breed publiek weet te bereiken met zijn humor en toegankelijke stijl. Veel"
 ---
-
 Auto
 
 Bram Krikke is een bekende Nederlandse radio- en tv-presentator die een breed publiek weet te bereiken met zijn humor en toegankelijke stijl. Veel mensen zijn benieuwd naar de Bram Krikke leeftijd en

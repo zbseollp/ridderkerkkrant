@@ -1,6 +1,9 @@
 ---
 title: "Vader van Anouk Teeuwe: wie is haar vader"
 pubDate: 2024-01-01
+date: "2024-01-01"
+slug: "vader-van-anouk-teeuwe"
+metaDescription: "Auto De vraag naar vader van Anouk Teeuwe komt vaak voorbij bij fans van de Nederlandse zangeres. Anouk is een van de bekendste artiesten van Nederland,"
 ---
 
 Auto
