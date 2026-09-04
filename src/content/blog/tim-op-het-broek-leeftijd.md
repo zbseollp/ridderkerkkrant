@@ -1,7 +1,7 @@
 ---
 title: "Tim Op het Broek leeftijd: hoe oud is de journalist?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "tim-op-het-broek-leeftijd"
 metaDescription: "Auto De leeftijd van Tim Op het Broek is iets waar luisteraars en volgers regelmatig nieuwsgierig naar zijn. De Nederlandse journalist en radiomaker is al"
 ---

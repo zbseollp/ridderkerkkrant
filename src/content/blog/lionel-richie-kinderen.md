@@ -1,7 +1,7 @@
 ---
 title: "Lionel Richie kinderen: alles over zijn gezin"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "lionel-richie-kinderen"
 metaDescription: "Auto Veel mensen zijn benieuwd naar de Lionel Richie kinderen, vooral omdat hij wereldwijd bekendstaat als zanger en songwriter. Naast zijn legendarische"
 ---

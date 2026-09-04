@@ -1,7 +1,7 @@
 ---
 title: "Zoon van Willem van Oranje: wie waren zijn kinderen"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "zoon-van-willem-van-oranje"
 metaDescription: "Auto De vraag naar zoon van Willem van Oranje komt vaak naar voren bij mensen die geïnteresseerd zijn in de Nederlandse geschiedenis. Willem van Oranje,"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Daya Hendriks vader: wat is bekend over haar familie?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "daya-hendriks-vader"
 metaDescription: "Auto Daya Hendriks is een opkomende publieke persoonlijkheid in Nederland, maar veel mensen vragen zich af wie haar vader is. Over de Daya Hendriks vader"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Is Verstappen al vader geworden: alles over zijn eerste kind"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "is-verstappen-al-vader-geworden"
 metaDescription: "Auto De vraag of Verstappen al vader geworden is, is inmiddels beantwoord. Max Verstappen, de wereldberoemde Formule 1-coureur, en zijn partner Kelly"
 ---

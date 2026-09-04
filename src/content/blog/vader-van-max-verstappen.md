@@ -1,7 +1,7 @@
 ---
 title: "Vader van Max Verstappen: wie is hij en wat doet hij?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "vader-van-max-verstappen"
 metaDescription: "Auto Max Verstappen is een van de bekendste Formule 1-coureurs ter wereld, maar veel mensen zijn ook benieuwd naar zijn familie. Vooral de vader van Max"
 ---

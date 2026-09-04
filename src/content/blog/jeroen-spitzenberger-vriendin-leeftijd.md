@@ -1,7 +1,7 @@
 ---
 title: "Jeroen Spitzenberger vriendin leeftijd: hoe oud is ze?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "jeroen-spitzenberger-vriendin-leeftijd"
 metaDescription: "Auto De leeftijd van de vriendin van Jeroen Spitzenberger is een onderwerp waar veel fans nieuwsgierig naar zijn. De Nederlandse acteur is bekend van"
 ---

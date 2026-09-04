@@ -1,7 +1,7 @@
 ---
 title: "Daan Schuurmans leeftijd: hoe oud is de acteur?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "daan-schuurmans-leeftijd"
 metaDescription: "Auto Daan Schuurmans is een van de bekendste Nederlandse acteurs en heeft een indrukwekkende carrière opgebouwd in film, televisie en theater. Zijn"
 ---

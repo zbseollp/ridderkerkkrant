@@ -1,7 +1,7 @@
 ---
 title: "Evert Jan Ouweneel leeftijd: hoe oud is hij?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "evert-jan-ouweneel-leeftijd"
 metaDescription: "Auto Evert Jan Ouweneel is een bekende Nederlandse predikant, schrijver en spreker. Veel mensen zijn nieuwsgierig naar de Evert Jan Ouweneel leeftijd en"
 ---

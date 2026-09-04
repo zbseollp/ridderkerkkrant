@@ -1,7 +1,7 @@
 ---
 title: "Bas Kremer leeftijd: hoe oud is de Nederlandse influencer?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "bas-kremer-leeftijd"
 metaDescription: "Auto Bas Kremer is een Nederlandse influencer en ondernemer die bekendstaat om zijn lifestyle- en sociale media-activiteiten. Veel mensen zijn"
 ---

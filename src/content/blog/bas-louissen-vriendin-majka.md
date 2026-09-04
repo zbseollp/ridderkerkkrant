@@ -1,7 +1,7 @@
 ---
 title: "Bas Louissen vriendin Majka: wie is zijn partner"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "bas-louissen-vriendin-majka"
 metaDescription: "Auto De vraag naar Bas Louissen vriendin Majka komt vaak naar voren bij mensen die nieuwsgierig zijn naar het privéleven van de Nederlandse journalist en"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Synthetische vs. Minerale Motorolie – Wat Is het Verschil?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-04-02"
+date: "2024-04-02"
 slug: "synthetische-vs-minerale-motorolie-wat-is-het-verschil"
 metaDescription: "Auto In de wereld van automobiliteit speelt motorolie een cruciale rol in het welzijn en de prestatie van een voertuig. Het zorgt voor smering van de"
 ---

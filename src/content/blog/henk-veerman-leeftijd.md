@@ -1,7 +1,7 @@
 ---
 title: "Henk Veerman leeftijd: hoe oud is de Nederlandse voetballer?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "henk-veerman-leeftijd"
 metaDescription: "Auto Henk Veerman is een bekende Nederlandse voetballer die vooral bekendstaat om zijn rol als spits. Veel voetbalfans zijn benieuwd naar de Henk Veerman"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Afkomst Steve Jobs: wat is bekend over zijn achtergrond?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "afkomst-steve-jobs"
 metaDescription: "Auto De vraag afkomst Steve Jobs wordt vaak gesteld door mensen die meer willen weten over de achtergrond van de beroemde ondernemer. Steve Jobs is vooral"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Christiaan Paauwe partner: wie is de vrouw van de ex-voetballer"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "christiaan-paauwe-partner"
 metaDescription: "Auto De vraag naar Christiaan Paauwe partner komt vaak naar voren bij fans van de Nederlandse ex-voetballer. Paauwe is bekend vanwege zijn loopbaan als"
 ---

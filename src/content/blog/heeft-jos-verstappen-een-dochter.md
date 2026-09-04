@@ -1,7 +1,7 @@
 ---
 title: "Heeft Jos Verstappen een dochter? Dit is zijn gezin"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "heeft-jos-verstappen-een-dochter"
 metaDescription: "Auto Heeft Jos Verstappen een dochter? Veel mensen kennen hem vooral als voormalig Formule 1-coureur en als de vader van wereldkampioen Max Verstappen."
 ---

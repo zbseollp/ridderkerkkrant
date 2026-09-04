@@ -1,7 +1,7 @@
 ---
 title: "John Fentener van Vlissingen kinderen: hoeveel had hij?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "john-fentener-van-vlissingen-kinderen"
 metaDescription: "Auto De kinderen van John Fentener van Vlissingen zijn een onderwerp waar mensen vaak nieuwsgierig naar zijn wanneer ze meer lezen over de bekende"
 ---

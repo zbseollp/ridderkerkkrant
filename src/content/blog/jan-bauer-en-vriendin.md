@@ -1,7 +1,7 @@
 ---
 title: "Jan Bauer en vriendin: wat is bekend over zijn relatie?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "jan-bauer-en-vriendin"
 metaDescription: "Auto De zoekterm Jan Bauer en vriendin wordt vaak gebruikt door mensen die nieuwsgierig zijn naar het persoonlijke leven van Jan Bauer. Jan Bauer is"
 ---

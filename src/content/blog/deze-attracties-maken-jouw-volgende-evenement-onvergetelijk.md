@@ -1,7 +1,7 @@
 ---
 title: "Deze attracties maken jouw volgende evenement onvergetelijk"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-08-16"
+date: "2024-08-16"
 slug: "deze-attracties-maken-jouw-volgende-evenement-onvergetelijk"
 metaDescription: "Nieuws Een onvergetelijk evenement begint met het kiezen van de juiste attracties. Een feest geven kan soms stressvol zijn, maar met de juiste planning"
 ---

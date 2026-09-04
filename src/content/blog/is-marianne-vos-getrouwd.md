@@ -1,7 +1,7 @@
 ---
 title: "Is Marianne Vos getrouwd: alles over haar relatie"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "is-marianne-vos-getrouwd"
 metaDescription: "Auto Veel mensen vragen zich af is Marianne Vos getrouwd, vooral omdat ze bekendstaat als een van de beste wielrensters ter wereld. Marianne Vos heeft een"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Maurice Steijn partner: wie is de vrouw van de voetbalcoach?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "maurice-steijn-partner"
 metaDescription: "Auto Maurice Steijn is een bekende Nederlandse voetbalcoach die naam heeft gemaakt bij verschillende clubs in Nederland. Naast zijn werk op het veld zijn"
 ---

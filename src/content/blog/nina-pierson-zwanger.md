@@ -1,7 +1,7 @@
 ---
 title: "Nina Pierson zwanger: verwacht de influencer een kindje?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "nina-pierson-zwanger"
 metaDescription: "Auto Nina Pierson is een bekende Nederlandse influencer die vooral bekend is van sociale media en lifestylecontent. Door haar zichtbaarheid zijn veel"
 ---

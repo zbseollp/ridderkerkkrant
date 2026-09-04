@@ -1,7 +1,7 @@
 ---
 title: "Waarom Ridderkerk enthousiast zal zijn over Oscar Autoverhuur"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2024-09-30"
+date: "2024-09-30"
 slug: "waarom-ridderkerk-enthousiast-zal-zijn-over-oscar-autoverhuur"
 metaDescription: "Auto Oscar Autoverhuur breidt zich gestaag uit en maakt nu ook zijn intrede in Ridderkerk. Dit nieuws heeft voor veel opwinding gezorgd onder de inwoners"
 ---

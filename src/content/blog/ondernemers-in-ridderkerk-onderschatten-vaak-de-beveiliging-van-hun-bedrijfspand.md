@@ -1,7 +1,7 @@
 ---
 title: "Ondernemers in Ridderkerk onderschatten vaak de beveiliging van hun bedrijfspand"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-06-19"
+date: "2026-06-19"
 slug: "ondernemers-in-ridderkerk-onderschatten-vaak-de-beveiliging-van-hun-bedrijfspand"
 metaDescription: "Nieuws Ridderkerk is een gemeente met een stevige ondernemersgeest. Langs de bedrijventerreinen Donkersloot en Cornelisland werken talloze bedrijven, en"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Leeftijd dochter Jan Smit: hoe oud is zijn kind?"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "leeftijd-dochter-jan-smit"
 metaDescription: "Auto Jan Smit is een van de bekendste Nederlandse zangers en een vaste naam in het Nederlandse entertainment. Naast zijn carrière zijn veel fans"
 ---

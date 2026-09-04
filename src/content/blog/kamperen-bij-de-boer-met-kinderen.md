@@ -1,7 +1,7 @@
 ---
 title: "Kamperen bij de boer met kinderen: een onvergetelijke vakantie"
-pubDate: 2024-01-01
-date: "2024-01-01"
+pubDate: "2026-03-14"
+date: "2026-03-14"
 slug: "kamperen-bij-de-boer-met-kinderen"
 metaDescription: "Auto Kamperen bij de boer met kinderen is een ideale manier om samen quality time door te brengen en kinderen kennis te laten maken met de natuur. Het"
 ---
