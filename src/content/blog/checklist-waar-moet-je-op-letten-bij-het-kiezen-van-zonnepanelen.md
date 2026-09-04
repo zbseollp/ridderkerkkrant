@@ -11,10 +11,6 @@ Een verstandige stap richting lagere energiekosten en duurzamer energieverbruik 
 
 Redactie RidderkerkKrant10 mei 2025
 
-![Checklist: waar moet je op letten bij het kiezen van zonnepanelen?](https://ridderkerkkrant.nl/wp-content/uploads/2025/05/pexels-pixabay-356036-1.jpg)
-
-![](https://ridderkerkkrant.nl/wp-content/uploads/2025/05/pexels-pixabay-356036-1-1024x674.jpg)
-
 **Een verstandige stap richting lagere energiekosten en duurzamer energieverbruik is het nemen van zonnepanelen. Het aanbod van deze duurzame bron is groot, maar wel verschillen ze in kwaliteit, service en prijs. Of je nu als particulier of bedrijf op zoek bent naar de beste zonnepanelen, het is belangrijk om goed geïnformeerd een keuze te maken. Zo kan je rekenen op maximaal rendement van je investering en voorkom je onverwachte verrassingen. Deze checklist helpt je om de juiste afwegingen te maken.**
 
 ## Kwaliteit van de zonnepanelen en omvormer

@@ -11,8 +11,6 @@ Ridderkerk is een gemeente met een stevige ondernemersgeest. Langs de bedrijvent
 
 Redactie RidderkerkKrant19 juni 2026
 
-![Ondernemers in Ridderkerk onderschatten vaak de beveiliging van hun bedrijfspand](https://ridderkerkkrant.nl/wp-content/uploads/2026/06/featured.jpg)
-
 Ridderkerk is een gemeente met een stevige ondernemersgeest. Langs de bedrijventerreinen Donkersloot en Cornelisland werken talloze bedrijven, en in het centrum rond de Sint Jorisstraat vind je winkels en horeca die het dorpse hart levend houden. Voor al deze ondernemers geldt dat hun pand niet alleen een werkplek is, maar ook de plek waar voorraad, apparatuur en soms gevoelige gegevens liggen. Toch krijgt de beveiliging van bedrijfspanden lang niet altijd de aandacht die het verdient.
 
 ## Een bedrijfspand is een ander verhaal dan een woning

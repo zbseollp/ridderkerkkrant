@@ -11,10 +11,6 @@ Kies een praktijk die meteen helder maakt waar je terechtkunt: voor vaste contro
 
 Redactie RidderkerkKrant9 maart 2026
 
-![Zo kies je een praktijk die bij je past](https://ridderkerkkrant.nl/wp-content/uploads/2026/03/image.png)
-
-![](https://ridderkerkkrant.nl/wp-content/uploads/2026/03/image-1024x480.png)
-
 Kies een praktijk die meteen helder maakt waar je terechtkunt: voor vaste controles die je vooruit plant, of voor snelle hulp bij pijn. Dat scheelt gedoe op het moment dat je juist snel duidelijkheid wilt. Goede praktijken leggen dit simpel uit op hun website of aan de telefoon: wat je doet bij spoed, hoe je een controle boekt en wat je ongeveer kunt verwachten. Op de site van [Tandartsenpraktijk Lelystad Centrum](https://tandartsenpraktijklelystadcentrum.nl/) zie je bijvoorbeeld hoe een praktijk dit kan uitleggen, maar je kunt dezelfde vragen net zo goed stellen bij andere praktijken in het centrum.
 
 ## Begin bij je situatie: pijn die nú speelt of onderhoud dat doorloopt
