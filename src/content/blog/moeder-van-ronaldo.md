@@ -5,7 +5,6 @@ date: "2024-01-01"
 slug: "moeder-van-ronaldo"
 metaDescription: "Auto De vraag naar moeder van Ronaldo komt vaak voorbij bij voetbalfans die nieuwsgierig zijn naar de familie achter de wereldberoemde Portugese"
 ---
-
 Auto
 
 De vraag naar moeder van Ronaldo komt vaak voorbij bij voetbalfans die nieuwsgierig zijn naar de familie achter de wereldberoemde Portugese voetballer. Cristiano Ronaldo groeide uit tot een van de bes

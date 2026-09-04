@@ -5,7 +5,6 @@ date: "2024-01-01"
 slug: "vader-van-anouk-teeuwe"
 metaDescription: "Auto De vraag naar vader van Anouk Teeuwe komt vaak voorbij bij fans van de Nederlandse zangeres. Anouk is een van de bekendste artiesten van Nederland,"
 ---
-
 Auto
 
 De vraag naar vader van Anouk Teeuwe komt vaak voorbij bij fans van de Nederlandse zangeres. Anouk is een van de bekendste artiesten van Nederland, met hits die zowel in het binnen- als buitenland pop

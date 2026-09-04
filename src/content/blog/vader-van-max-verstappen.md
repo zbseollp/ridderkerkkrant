@@ -5,7 +5,6 @@ date: "2024-01-01"
 slug: "vader-van-max-verstappen"
 metaDescription: "Auto Max Verstappen is een van de bekendste Formule 1-coureurs ter wereld, maar veel mensen zijn ook benieuwd naar zijn familie. Vooral de vader van Max"
 ---
-
 Auto
 
 Max Verstappen is een van de bekendste Formule 1-coureurs ter wereld, maar veel mensen zijn ook benieuwd naar zijn familie. Vooral de vader van Max Verstappen speelt een belangrijke rol in zijn leven
